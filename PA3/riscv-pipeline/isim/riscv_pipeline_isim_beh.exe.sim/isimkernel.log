@@ -1,0 +1,29 @@
+Command line:
+   riscv_pipeline_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60437
+
+Sat Oct 26 17:45:53 2019
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 197.779 Meg
+
+ Total Signals          : 83
+ Total Nets             : 1279
+ Total Signal Drivers   : 46
+ Total Blocks           : 8
+ Total Primitive Blocks : 7
+ Total Processes        : 58
+ Total Traceable Variables  : 71
+ Total Scalar Nets and Variables : 10462
+Total Line Count : 182
+
+ Total Simulation Time: 0.02 sec
+
+ Current Memory Usage: 273.281 Meg
+
+Sat Oct 26 17:45:57 2019
+

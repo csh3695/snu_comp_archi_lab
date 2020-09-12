@@ -1,0 +1,8 @@
+MO mem64 NULL ../memory.v vlg55/mem64.bin 1571946670
+MO inst_decoder NULL ../inst_decoder.v vlg2B/inst__decoder.bin 1571946670
+MO pipeline_ctl NULL ../control.v vlg0C/pipeline__ctl.bin 1571946670
+MO tb NULL ../tb.v vlg26/tb.bin 1571946670
+MO reg_file NULL ../reg.v vlg69/reg__file.bin 1571946670
+MO riscv_pipeline NULL ../riscv_pipeline.v vlg60/riscv__pipeline.bin 1571946670
+MO rom64 NULL ../memory.v vlg6C/rom64.bin 1571946670
+MO alu NULL ../alu.v vlg0A/alu.bin 1571946670

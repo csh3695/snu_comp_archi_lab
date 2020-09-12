@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/csehome/csh3695/Desktop/PA3/CompArchi/PA3/riscv-pipeline/tb_isim_beh.exe" -prj "/csehome/csh3695/Desktop/PA3/CompArchi/PA3/riscv-pipeline/tb_beh.prj" "work.tb" "work.glbl" 

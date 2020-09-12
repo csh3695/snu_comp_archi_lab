@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/temp/19F/Architecture/PA3/riscv-pipeline/tb.xst" -ofn "/home/temp/19F/Architecture/PA3/riscv-pipeline/tb.syr" 

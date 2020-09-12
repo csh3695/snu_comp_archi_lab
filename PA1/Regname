@@ -1,0 +1,32 @@
+x0 zero None /Hardwired/
+x1 ra Caller /Return Address/
+x2 sp Callee /Stack Pointer/
+x3 gp None /Global Pointer/
+x4 tp None /Thread Pointer/
+x5 t0 Caller /Temporaries/
+x6 t1 Caller /Temporaries/
+x7 t2 Caller /Temporaries/
+x8 s0/fp Callee /Saved Register || Frame Pointer/
+x9 s1 Callee /Saved Register/
+x10 a0 Caller /Function argument/
+x11 a1 Caller /Function argument/
+x12 a2 Caller /Function argument/
+x13 a3 Caller /Function argument/
+x14 a4 Caller /Function argument/
+x15 a5 Caller /Function argument/
+x16 a6 Caller /Function argument/
+x17 a7 Caller /Function argument/
+x18 s2 Callee /Saved Register/
+x19 s3 Callee /Saved Register/
+x20 s4 Callee /Saved Register/
+x21 s5 Callee /Saved Register/
+x22 s6 Callee /Saved Register/
+x23 s7 Callee /Saved Register/
+x24 s8 Callee /Saved Register/
+x25 s9 Callee /Saved Register/
+x26 s10 Callee /Saved Register/
+x27 s11 Callee /Saved Register/
+x28 t3 Caller /Temporaries/
+x29 t4 Caller /Temporaries/
+x30 t5 Caller /Temporaries/
+x31 t6 Caller /Temporaries/

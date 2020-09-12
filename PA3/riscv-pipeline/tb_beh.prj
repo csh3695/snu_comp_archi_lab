@@ -1,0 +1,8 @@
+verilog work "../reg.v"
+verilog work "../memory.v"
+verilog work "../inst_decoder.v"
+verilog work "../control.v"
+verilog work "../alu.v"
+verilog work "../riscv_pipeline.v"
+verilog work "../tb.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

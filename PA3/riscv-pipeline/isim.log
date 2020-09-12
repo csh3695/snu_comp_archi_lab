@@ -1,0 +1,40 @@
+ISim log file
+Running: /csehome/csh3695/Desktop/PA3/CompArchi/PA3/riscv-pipeline/tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /csehome/csh3695/Desktop/PA3/CompArchi/PA3/riscv-pipeline/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+reg[ 1] = 0x000000000000000a
+reg[11] = 0x0000000000000001
+reg[12] = 0x0000000000000002
+reg[12] = 0x0000000000000004
+reg[12] = 0x0000000000000008
+M[ 1] = 0x000000000000000a
+reg[ 1] = 0x0000000000000009
+reg[11] = 0x0000000000000002
+reg[ 1] = 0x0000000000000000
+reg[ 2] = 0x0000000000000000
+reg[ 3] = 0x0000000000000000
+reg[ 1] = 0x0000000000000001
+reg[ 2] = 0x000000000000000a
+reg[ 3] = 0x0000000000000001
+reg[ 4] = 0x0000000000000002
+reg[ 4] = 0x0000000000000004
+reg[ 4] = 0x0000000000000008
+reg[ 5] = 0x00000000000000aa
+reg[ 6] = 0x000000000000000a
+M[ 0] = 0x000000000000000a
+M[ 1] = 0x00000000000000aa
+Stopped at time : 280 ns : File "/csehome/csh3695/Desktop/PA3/CompArchi/PA3/memory.v" Line 60
+# run 1.00us
+reg[ 1] = 0x0000000000000002
+# run 1.00us
+# run 1.00us
+# exit 0

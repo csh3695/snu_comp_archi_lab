@@ -1,0 +1,9 @@
+#!/bin/bash
+if [ ! $2 ]; then
+    spike pk maze 'input'$1'.txt'
+    exit 0
+fi
+
+echo "Debug Mode"
+    spike $2 pk maze 'input'$1'.txt'
+    exit 0
